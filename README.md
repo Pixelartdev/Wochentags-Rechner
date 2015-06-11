@@ -3,7 +3,7 @@
 Hier findest du den Wochentags Rechner als fertige jar-Datei, oder als Netbeans Projekt.
 
 ## Benutzung
-1. Wähle den Tag
+1. W&auml;hle den Tag
 2. Wähle den Monat
 3. Gib das Jahr an (in XXXX Format)
 4. Drücke auf "Rechne"
