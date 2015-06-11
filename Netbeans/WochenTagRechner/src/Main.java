@@ -98,6 +98,7 @@ public class Main extends javax.swing.JFrame {
         );
 
         pack();
+        setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
@@ -111,7 +112,7 @@ public class Main extends javax.swing.JFrame {
         
         Rechner r = new Rechner();
         r.Rechner(tag, monat, jahr);
-        ergebnisLabel.setText("<html>Der gesuchte Tag ist: <b>"+r.ergebnis+"</b></html>");
+        ergebnisLabel.setText("<html>Der gesuchte Tag ist ein <b>"+r.ergebnis+"</b></html>");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     public static void main(String args[]) {

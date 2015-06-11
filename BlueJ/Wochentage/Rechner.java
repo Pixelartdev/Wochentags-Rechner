@@ -1,9 +1,9 @@
-/**
+ /**
  *
- * @author Deniz Celebi
+ * @author Deniz
  */
 public class Rechner {
-
+    
     int tag = 0;
     int monat = 0;
     int jahr = 0;
@@ -12,7 +12,8 @@ public class Rechner {
     String temp = null;
     String ergebnis = null;
     
-    
+    public static void main() {
+    }
     
     public void Rechner(int neuerTag, int neuerMonat, int neuesJahr) {
         tag = neuerTag;
@@ -53,7 +54,11 @@ public class Rechner {
         // Wochentag berechnen
         eFinal = (eTag + eMonat + eJahr1 + eJahr2 + eSchaltjahr) % 7;
         ergebnis = ergebnis(eFinal);
+        
+        // Ergebnis
+        System.out.println("Der Tag ist ein "+ergebnis);
     }
+    
     
     private boolean isSchaltjahr(int jahr) {
         if(jahr%4 == 0) {
@@ -70,6 +75,7 @@ public class Rechner {
             return false;
         }
     }
+    
     
     private int monatsZiffer(int monat) {
         switch(monat) {
@@ -118,7 +124,7 @@ public class Rechner {
             case 6:
                 return "Samstag";            
         }
-        return "fehler";
+        return "Fehler";
     }
     
 }

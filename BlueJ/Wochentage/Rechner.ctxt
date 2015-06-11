@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=neuerTag\ neuerMonat\ neuesJahr
+comment1.target=void\ Rechner(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ berechne()
+comment3.params=jahr
+comment3.target=boolean\ isSchaltjahr(int)
+comment4.params=monat
+comment4.target=int\ monatsZiffer(int)
+comment5.params=zahl
+comment5.target=java.lang.String\ ergebnis(int)
+numComments=6
