@@ -10,8 +10,6 @@ Hier findest du den Wochentags Rechner als fertige jar-Datei, oder als Netbeans 
 
 Und schon hast du dein Ergebnis
 
-(Schaltjahre funktionieren noch nicht!)
-
 ## Changelog
 
 **1.0.0**  *21.5.2015*
