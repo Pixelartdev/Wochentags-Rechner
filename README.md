@@ -10,6 +10,9 @@ Hier findest du den Wochentags Rechner als fertige jar-Datei, oder als Netbeans 
 
 Und schon hast du dein Ergebnis
 
+###Goolge PlayStore Link
+https://play.google.com/store/apps/details?id=de.pixelart.wochentagsrechner
+
 ## Changelog
 
 **1.0.0**  *21.5.2015*
