@@ -1,6 +1,6 @@
 # Wochentags Rechner
 
-Hier findest du den Wochentags Rechner als fertige jar-Datei, oder als Netbeans Projekt.
+Hier findest du den Wochentags Rechner als fertige jar-Datei, oder als Netbeans Projekt und die apk Datei, die du aber auch über den PlayStore Link direkt runterladen kannst auf deinem Androiden
 
 ## Benutzung
 1. W&auml;hle den Tag
